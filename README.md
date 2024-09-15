@@ -22,6 +22,8 @@
 
     如Windows将放在C盘 `AppData\Local\pypoetry\Cache\virtualenvs\`
 
+    所以说推荐新建一个`.venv`虚拟环境在根目录
+
 3. 添加依赖：
 
     ```bash
